@@ -1,7 +1,7 @@
 # Prompt Engineering Demo
 
 ## Description
-Calls OpenAI and GeminiAPIs using Prompts to get required answers.
+Send Prompts to OpenAI API and Gemini API and compare the quality of answers.
 
 ## Setup Instructions
 
