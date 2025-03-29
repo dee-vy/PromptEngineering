@@ -1,0 +1,25 @@
+# All dependencies are listed in the requirements file, so the virtual env. folder 'venv' is not committed to Git.
+# Used this command to generate the requirements file: pip freeze > requirements.txt
+
+# Ignore venv
+venv/
+
+# Ignore environment variable files
+.env
+*.env
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore IDE-specific files (for PyCharm)
+.idea/
+
+# Ignore OS-specific files (macOS, Windows)
+.DS_Store
+Thumbs.db
+
+# Ignore generated files (like XML files, logs, etc.)
+*.xml
+*.log
